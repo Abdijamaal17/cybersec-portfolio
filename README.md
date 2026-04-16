@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 > Penetration testing, bug bounty research, and security assessments by Abdijamaal Mohamuud.
 
@@ -9,7 +9,27 @@
 
 ---
 
-## 🚀 Real-World Projects
+## whoami
+
+Security researcher and penetration tester focused on offensive security, bug bounty hunting, and web application testing. I enjoy finding vulnerabilities, automating recon, and understanding how systems can be broken — and fixed.
+
+**Interests:** Offensive security, bug bounty, CTF challenges, OSINT, scripting and automation
+
+### Tools and Technologies
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## Real-World Projects
 
 ### Bug Bounty — Bitstamp (HackerOne)
 Active bug bounty research on Bitstamp cryptocurrency exchange.
@@ -19,7 +39,7 @@ Active bug bounty research on Bitstamp cryptocurrency exchange.
 - [Full writeup →](writeups/bitstamp-bug-bounty.md)
 
 ### Penetration Test — FS-Security
-Black-box web application penetration test, 34-page report.
+Greybox web application penetration test, 34-page report.
 - **SQL Injection → Root** (CVSS 9.8 Critical) — full DB and OS compromise
 - Stored XSS, missing security headers, verbose error messages
 - Delivered executive summary and technical findings to client
@@ -27,7 +47,7 @@ Black-box web application penetration test, 34-page report.
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 ├── methodology/              # Security frameworks and testing guides
@@ -49,7 +69,7 @@ Black-box web application penetration test, 34-page report.
 
 ---
 
-## 🎯 Methodology
+## Methodology
 
 | Framework | Purpose | Status |
 |-----------|---------|--------|
@@ -60,18 +80,18 @@ Black-box web application penetration test, 34-page report.
 
 ---
 
-## 🔧 Core Skills
+## Core Skills
 
 - **Web App Pentesting** — SQL injection, XSS, IDOR, authentication bypass, privilege escalation
 - **Bug Bounty** — Subdomain enumeration, API analysis, secret discovery, HackerOne reporting
 - **Network Security** — Port scanning (Nmap), service enumeration, SMB/SSH exploitation
-- **Scripting** — Bash automation, Python tooling, Burp Suite extensions
+- **Scripting** — Bash automation, Python tooling, JavaScript analysis
 - **SIEM and Monitoring** — Splunk, Wazuh, log analysis, alert correlation
 - **Compliance** — NIS2 directive, CVSS scoring, risk assessment frameworks
 
 ---
 
-## 📊 Testing Workflow
+## Testing Workflow
 
 Reconnaissance → Enumeration → Vulnerability Analysis → Exploitation → Post-Exploitation → Reporting
 
@@ -84,6 +104,6 @@ Reconnaissance → Enumeration → Vulnerability Analysis → Exploitation → P
 
 ---
 
-## 📜 License
+## License
 
 Educational purposes only. All testing performed in authorized environments with explicit permission.
